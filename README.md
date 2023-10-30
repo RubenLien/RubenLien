@@ -3,8 +3,7 @@
  
 ## 📝 About Me
 
-I'm a student who is passionate about Frontend development and I am committed to developing web applications that are both intuitive and responsive, aiming to enhance user experience. I continually explore new technologies and stay informed about the latest trends in web development to ensure that my skills remain current and relevant. This approach allows me to create web solutions that are not only functional but also user-friendly.
-
+I'm a student who is passionate about Frontend development and I am committed to developing web applications that are both intuitive and responsive, aiming to enhance user experience. I continually explore new technologies and stay informed about the latest trends in web development to ensure that my skills remain current and relevant.
 ## ⚡ Skills 
 
 React.js | Next.js | Tailwind CSS | Sass | TypeScript | HTML5 | CSS3 | JavaScript | Git
